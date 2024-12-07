@@ -1,5 +1,5 @@
 # CWA-EQImage-Generator
-![thumbnail](./thumbnail.png)
+![thumbnail](./thumbnail.jpg)
 CWA-EQImage-Generatorは、台湾の中央気象局の地震情報を取得し、画像生成するコマンドラインツールです。
 
 ## 使用方法
