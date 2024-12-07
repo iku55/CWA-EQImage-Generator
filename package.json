@@ -1,0 +1,26 @@
+{
+  "name": "cwa-eqimage-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "geneqimage.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iku55/CWA-EQImage-Generator.git"
+  },
+  "author": "iku55",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iku55/CWA-EQImage-Generator/issues"
+  },
+  "homepage": "https://github.com/iku55/CWA-EQImage-Generator#readme",
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "commander": "^12.1.0",
+    "d3": "^7.9.0",
+    "jsdom": "^25.0.1",
+    "topojson-client": "^3.1.0"
+  }
+}
